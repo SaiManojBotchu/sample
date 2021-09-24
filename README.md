@@ -24,12 +24,13 @@ $ cd TicTacToe/
 ```
 
 #### 3. Run app
-* For installing the packages
+
+* To install the flutter packages
 ```sh
 $ flutter pub get
 ```
-* For running your app on a simulator
 
+* To run the app on simulator
 ```sh
 $ flutter run
 ```
