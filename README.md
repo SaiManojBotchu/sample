@@ -8,7 +8,7 @@ Don't forget to give a star if you like this project 😅😊
 
 > **Note**: This repository is still under development and I will continue to add more features to it! 🙃
 
-## Table of contents 📚
+## Table of contents 📜
 
 - [General Info](#general-info-)
 - [Getting Started](#getting-started-)
@@ -47,7 +47,7 @@ $ flutter run
 - [Flutter](https://flutter.dev/) version: 2.2.3
 - [Dart](https://dart.dev/) version: 2.13.4
 
-## Dependencies 📜
+## Dependencies 📚
 
 - [delayed_display](https://flutter.dev/)
 - [assets_audio_player](https://dart.dev/)
