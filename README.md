@@ -49,7 +49,7 @@ $ flutter run
 
 ## Dependencies 📚
 
-- [Assets Audio Player](https://pub.dev/packages/assets_audio_player)
+[Assets Audio Player](https://pub.dev/packages/assets_audio_player)
 - [Delayed Display](https://pub.dev/packages/delayed_display)
 - [RFlutter Alert](https://pub.dev/packages/rflutter_alert)
 - [Anitex](https://pub.dev/packages/anitex)
