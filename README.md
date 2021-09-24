@@ -11,9 +11,10 @@ Don't forget to give a star if you like this project 😅😊
 ## Table of contents 📜
 
 - [General Info](#general-info-)
+- [Screenshots](#screenshots-)
+- [Preview](#preview-)
 - [Getting Started](#getting-started-)
 - [Technologies](#technologies-)
-- [Screenshots](#screenshots-)
 - [Dependencies](#dependencies-)
 
 
