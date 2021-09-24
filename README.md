@@ -51,8 +51,9 @@ $ flutter run
 
 [![Anitex](https://img.shields.io/badge/Anitex-lint-4BC0F5.svg)](https://pub.dev/packages/anitex)  
 [![Lottie](https://img.shields.io/badge/Lottie-lint-4BC0F5.svg)](https://pub.dev/packages/lottie)  
-[![](https://img.shields.io/badge/Assets%20Audio%20Player-lint-4BC0F5.svg)](https://pub.dev/packages/assets_audio_player)  
 [![](https://img.shields.io/badge/Delayed%20Display-lint-4BC0F5.svg)](https://pub.dev/packages/delayed_display)  
 [![RFlutter Alert](https://img.shields.io/badge/RFlutter%20Alert-lint-4BC0F5.svg)](https://pub.dev/packages/rflutter_alert)  
+[![](https://img.shields.io/badge/Assets%20Audio%20Player-lint-4BC0F5.svg)](https://pub.dev/packages/assets_audio_player)  
+
 
 
