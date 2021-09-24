@@ -44,7 +44,7 @@ $ flutter run
 
 ## Technologies 👨🏻‍💻
 
-[![Flutter](https://img.shields.io/badge/Flutter-v2.2.3-1.svg)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-v2.2.3-1.svg)](https://flutter.dev/) 
 [![Dart](https://img.shields.io/badge/Dart-v2.13.4-1.svg)](https://dart.dev/)
 
 ## Dependencies 📚
