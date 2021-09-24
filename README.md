@@ -1,4 +1,4 @@
-# Tic-Tac-Toe 🎃
+<h1 align="center">Tic-Tac-Toe 🎃</h1>
 
 A simple mobile game built with `Flutter`
 
