@@ -8,6 +8,12 @@ A simple mobile game built with `Flutter`
 
 > **Note**: This repository is still under development and I will continue to add more features to it! 🙃
 
+## :book: Table of contents
+
+- [Getting Started](#getting-started-)
+- [Technologies](#technologies)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
 
 ## Getting Started 🚀
 
