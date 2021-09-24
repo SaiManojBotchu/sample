@@ -36,7 +36,7 @@ $ flutter pub get
 $ flutter run
 ```
 
-## :gear: Technologies
+## Technologies
 
 Project is created with:
 
