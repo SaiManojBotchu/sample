@@ -9,9 +9,6 @@ A simple mobile game built with `Flutter`
 > **Note**: This repository is still under development and I will continue to add more features to it! 🙃
 
 
-## Preview 📷
-
-
 ## Getting Started 🚀
 
 #### 1. [Setup Flutter](https://flutter.io/setup/)
