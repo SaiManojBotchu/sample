@@ -36,9 +36,7 @@ $ flutter pub get
 $ flutter run
 ```
 
-## Technologies
-
-Project is created with:
+## Technologies 👨🏻‍💻
 
 - [Flutter](https://flutter.dev/) version: 2.2.3
 - [Dart](https://dart.dev/) version: 2.13.4
