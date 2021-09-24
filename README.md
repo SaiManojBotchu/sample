@@ -1,4 +1,4 @@
-# TicTacToe Game
+# TicTacToe
 
 A simple `TicTacToe` Game built with `Flutter` with a Beautiful UI 
 
@@ -25,7 +25,7 @@ $ cd TicTacToe/
 
 #### 3. Run app
 
-* To install the flutter packages
+* To install flutter packages
 ```sh
 $ flutter pub get
 ```
