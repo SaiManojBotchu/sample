@@ -14,10 +14,10 @@ Don't forget to give a star if you like this project 😅😊
 - [Getting Started](#getting-started-)
 - [Technologies](#technologies-)
 - [Screenshots](#screenshots-)
-- [Packages](#packages-)
+- [Dependencies](#dependencies-)
 
 
-## General info 📝
+## General Info 📝
 
 The purpose of this project was to practice Flutter development by creating simple mobile game.
 
@@ -47,7 +47,7 @@ $ flutter run
 - [Flutter](https://flutter.dev/) version: 2.2.3
 - [Dart](https://dart.dev/) version: 2.13.4
 
-## Packages 📦
+## Dependencies 📜
 
-- [Flutter](https://flutter.dev/) version: 2.2.3
-- [Dart](https://dart.dev/) version: 2.13.4
+- [delayed_display](https://flutter.dev/)
+- [assets_audio_player](https://dart.dev/)
