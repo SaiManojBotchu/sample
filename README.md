@@ -23,14 +23,12 @@ $ git clone https://github.com/SaiManojBotchu/TicTacToe.git
 $ cd TicTacToe/
 ```
 
-#### 3. Run app
-
-* Install dependencies
+#### 3. Install dependencies
 ```sh
 $ flutter pub get
 ```
 
-* Run app on simulator
+#### 3. Run app
 ```sh
 $ flutter run
 ```
