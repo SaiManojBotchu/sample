@@ -44,8 +44,8 @@ $ flutter run
 
 ## Technologies 👨🏻‍💻
 
-- [Flutter](https://flutter.dev/) version: 2.2.3
-- [Dart](https://dart.dev/) version: 2.13.4
+[![Flutter](https://img.shields.io/badge/Flutter-v2.2.3-1.svg)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-v2.13.4-1.svg)](https://dart.dev/)
 
 ## Dependencies 📚
 
