@@ -49,5 +49,5 @@ $ flutter run
 
 ## Dependencies 📚
 
-- [delayed_display](https://flutter.dev/)
-- [assets_audio_player](https://dart.dev/)
+- [Delayed Display](https://flutter.dev/)
+- [Assets Audio Player](https://dart.dev/)
