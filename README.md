@@ -10,8 +10,8 @@ Don't forget to give a star if you like this project 😅😊
 
 ## :book: Table of contents
 
-- [General Info](#general-info)
-- [Getting Started](#getting-started)
+- [General Info](#general-info-)
+- [Getting Started](#getting-started-)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 
