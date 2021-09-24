@@ -10,10 +10,15 @@ Don't forget to give a star if you like this project 😅😊
 
 ## :book: Table of contents
 
-- [Getting Started](#getting-started-)
+- [General Info](#general-info)
+- [Getting Started](#getting-started)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
-- [Setup](#setup)
+
+
+## General info 📝
+
+The purpose of this project was to practice Flutter development by creating simple mobile game.
 
 ## Getting Started 🚀
 
