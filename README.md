@@ -35,3 +35,10 @@ $ flutter pub get
 ```sh
 $ flutter run
 ```
+
+## :gear: Technologies
+
+Project is created with:
+
+- [Flutter](https://flutter.dev/) version: 2.2.3
+- [Dart](https://dart.dev/) version: 2.13.4
