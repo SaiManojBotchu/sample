@@ -1,5 +1,4 @@
 # Flutter TicTacToe Game
----
 
 A simple `TicTacToe` Game built with `Flutter` with a Beautiful UI 
 
@@ -8,9 +7,7 @@ A simple `TicTacToe` Game built with `Flutter` with a Beautiful UI
 ### Dont forget to give a star if you like this project 😅😊
 
 > **Note**: This repository is still under development and I will continue to add more features to it!🙃
-## Note
----
-This repository is still under development and I will continue to add more features to it.
+
 
 ## Preview 📷
 
