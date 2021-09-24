@@ -49,5 +49,8 @@ $ flutter run
 
 ## Dependencies 📚
 
-- [Delayed Display](https://flutter.dev/)
-- [Assets Audio Player](https://dart.dev/)
+- [Assets Audio Player](https://pub.dev/packages/assets_audio_player)
+- [Delayed Display](https://pub.dev/packages/delayed_display)
+- [RFlutter Alert](https://pub.dev/packages/rflutter_alert)
+- [Anitex](https://pub.dev/packages/anitex)
+- [Lottie](https://pub.dev/packages/lottie)
