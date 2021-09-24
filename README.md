@@ -12,8 +12,9 @@ Don't forget to give a star if you like this project 😅😊
 
 - [General Info](#general-info-)
 - [Getting Started](#getting-started-)
-- [Technologies](#technologies)
-- [Screenshots](#screenshots)
+- [Technologies](#technologies-)
+- [Screenshots](#screenshots-)
+- [Packages](#packages-)
 
 
 ## General info 📝
