@@ -1,15 +1,13 @@
-<p align="center">
-  # Tic-Tac-Toe 🎃
+<h1 align="center">Tic-Tac-Toe 🎃</h1>
 
-A simple mobile game built with `Flutter`
+<p align="center">A simple mobile game built with `Flutter`</p>
 
-[![TicTacToe](https://img.shields.io/badge/TicTacToe-🎮-1EAEDB.svg)](https://github.com/SaiManojBotchu/TicTacToe)
+<p align="center">[![TicTacToe](https://img.shields.io/badge/TicTacToe-🎮-1EAEDB.svg)](https://github.com/SaiManojBotchu/TicTacToe)</p>
 
-Don't forget to give a star if you like this project 😅😊
+<p align="center">Don't forget to give a star if you like this project 😅😊</p>
 
-> **Note**: This repository is still under development and I will continue to add more features to it! 🙃
+> <p align="center">**Note**: This repository is still under development and I will continue to add more features to it! 🙃<p align="center">
 
-  </p>
 ## Table of contents 📜
 
 - [General Info](#general-info-)
