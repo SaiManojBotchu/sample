@@ -49,11 +49,11 @@ $ flutter run
 
 ## Dependencies 📚
 
-[![Anitex](https://img.shields.io/badge/Anitex-lint-1.svg)](https://pub.dev/packages/anitex)  
-[![Lottie](https://img.shields.io/badge/Lottie-lint-1.svg)](https://pub.dev/packages/lottie)  
-[![](https://img.shields.io/badge/Delayed%20Display-lint-4BC0F5.svg)](https://pub.dev/packages/delayed_display)  
-[![RFlutter Alert](https://img.shields.io/badge/RFlutter%20Alert-lint-4BC0F5.svg)](https://pub.dev/packages/rflutter_alert)  
-[![](https://img.shields.io/badge/Assets%20Audio%20Player-lint-4BC0F5.svg)](https://pub.dev/packages/assets_audio_player)  
+[![Anitex](https://img.shields.io/badge/Anitex-v2.0.0-1.svg)](https://pub.dev/packages/anitex)  
+[![Lottie](https://img.shields.io/badge/Lottie-v1.2.0-1.svg)](https://pub.dev/packages/lottie)  
+[![](https://img.shields.io/badge/Delayed%20Display-v2.0.0-1.svg)](https://pub.dev/packages/delayed_display)  
+[![RFlutter Alert](https://img.shields.io/badge/RFlutter%20Alert-v2.0.4-1.svg)](https://pub.dev/packages/rflutter_alert)  
+[![](https://img.shields.io/badge/Assets%20Audio%20Player-v3.0.3+6-1.svg)](https://pub.dev/packages/assets_audio_player)  
 
 
 
