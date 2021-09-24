@@ -1,4 +1,5 @@
-<h1 align="center">Tic-Tac-Toe 🎃</h1>
+<p align="center">
+  # Tic-Tac-Toe 🎃
 
 A simple mobile game built with `Flutter`
 
@@ -8,6 +9,7 @@ Don't forget to give a star if you like this project 😅😊
 
 > **Note**: This repository is still under development and I will continue to add more features to it! 🙃
 
+  </p>
 ## Table of contents 📜
 
 - [General Info](#general-info-)
