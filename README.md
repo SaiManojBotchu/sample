@@ -2,7 +2,7 @@
 
 A simple mobile game built with `Flutter`
 
-![](https://img.shields.io/badge/TicTacToe-🎮-1EAEDB.svg)
+![[](https://img.shields.io/badge/TicTacToe-🎮-1EAEDB.svg)](https://github.com/SaiManojBotchu/TicTacToe)
 
 ### Don't forget to give a star if you like this project 😅😊
 
