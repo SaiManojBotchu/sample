@@ -1,6 +1,6 @@
-# Tic Tac Toe
+# Tic-Tac-Toe
 
-A simple `TicTacToe` Game built with `Flutter` with a Beautiful UI 
+A Simple Mobile Game built with `Flutter`
 
 ![](https://img.shields.io/badge/TicTacToe-🎮-1EAEDB.svg)
 
