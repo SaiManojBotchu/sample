@@ -54,3 +54,4 @@ $ flutter run
 - [RFlutter Alert](https://pub.dev/packages/rflutter_alert)
 - [Anitex](https://pub.dev/packages/anitex)
 - [Lottie](https://pub.dev/packages/lottie)
+- [![style: lint](https://img.shields.io/badge/Assets%20Audio%20Player-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
