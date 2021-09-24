@@ -1,12 +1,12 @@
-<h1 align="center">Tic-Tac-Toe 🎃</h1>
+# Tic-Tac-Toe 🎃
 
-<p align="center">A simple mobile game built with `Flutter`</p>
+A simple mobile game built with `Flutter`
 
-<p align="center">[![TicTacToe](https://img.shields.io/badge/TicTacToe-🎮-1EAEDB.svg)](https://github.com/SaiManojBotchu/TicTacToe)</p>
+[![TicTacToe](https://img.shields.io/badge/TicTacToe-🎮-1EAEDB.svg)](https://github.com/SaiManojBotchu/TicTacToe)
 
-<p align="center">Don't forget to give a star if you like this project 😅😊</p>
+Don't forget to give a star if you like this project 😅😊
 
-> <p align="center">**Note**: This repository is still under development and I will continue to add more features to it! 🙃<p align="center">
+> **Note**: This repository is still under development and I will continue to add more features to it! 🙃
 
 ## Table of contents 📜
 
