@@ -29,7 +29,7 @@ The purpose of this project was to practice Flutter development by creating simp
 
 ## Getting Started 🚀
 
-#### 1. [ Setup Flutter](https://flutter.io/setup/)
+1. [ Setup Flutter](https://flutter.io/setup/)
 
 #### 2. Clone the repo
 
