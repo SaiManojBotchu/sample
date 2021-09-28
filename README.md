@@ -24,6 +24,7 @@ The purpose of this project was to practice Flutter development by creating simp
 
 ## Preview 📷
 <img src="preview-1.gif"  width="300"/>
+<img src="1.gif"  width="300"/>
 
 ## Getting Started 🚀
 
