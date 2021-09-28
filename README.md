@@ -61,7 +61,7 @@ Currently the project has the following features:
 7. Minimal Animations.
 
 **Upcoming Features**
----
+
 1. Storing data in cache using Shared Preferences.
 2. Addinng a show case widget for settings in Welcome Screen.
 3. Adding computer logic using minimax algorithm 🧠.
