@@ -10,12 +10,12 @@ Don't forget to give a star if you like this project 😅😊
 
 ## Table of Contents 📜
 
-- [General Info](#general-info-)
-- [Preview](#preview-)
-- [Screenshots](#screenshots-)
-- [Getting Started](#getting-started-)
-- [Technologies](#technologies-)
-- [Dependencies](#dependencies-)
+1. [General Info](#general-info-)
+2. [Preview](#preview-)
+3. [Screenshots](#screenshots-)
+4. [Getting Started](#getting-started-)
+5. [Technologies](#technologies-)
+6. [Dependencies](#dependencies-)
 
 
 ## General Info 📝
