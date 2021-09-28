@@ -14,8 +14,9 @@ Don't forget to give a star if you like this project 😅😊
 2. [Preview](#preview-)
 3. [Screenshots](#screenshots-)
 4. [Getting Started](#getting-started-)
-5. [Technologies](#technologies-)
-6. [Dependencies](#dependencies-)
+5. [Features](#features-)
+6. [Technologies](#technologies-)
+7. [Dependencies](#dependencies-)
 
 
 ## General Info 📝
@@ -50,7 +51,7 @@ $ flutter run
 
 ## Features ➕
 
-Currently the project has the following features:
+**Current Features:**
 
 1. Background music.
 2. Game sounds.
@@ -60,7 +61,7 @@ Currently the project has the following features:
 6. Timer when playing game.
 7. Minimal Animations.
 
-**Upcoming Features**
+**Upcoming Features:**
 
 1. Storing data in cache using Shared Preferences.
 2. Addinng a show case widget for settings in Welcome Screen.
