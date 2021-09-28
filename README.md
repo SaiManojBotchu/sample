@@ -31,7 +31,7 @@ The purpose of this project was to practice Flutter development by creating simp
 
 1. [ Setup Flutter](https://flutter.io/setup/)
 
-#### 2. Clone the repo
+###### 2. Clone the repo
 
 ```sh
 $ git clone https://github.com/SaiManojBotchu/TicTacToe.git
