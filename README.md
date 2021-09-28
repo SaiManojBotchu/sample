@@ -84,8 +84,7 @@ $ flutter run
 
 ## Contact ME 📞
 **Sai Manoj**
-Gmail: saimanoj2826@gmail.com
 
-Twitter:
-
-Github: https://github.com/SaiManojBotchu
+- Gmail: saimanoj2826@gmail.com
+- Twitter:
+- Github: https://github.com/SaiManojBotchu
