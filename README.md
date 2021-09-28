@@ -29,7 +29,7 @@ The purpose of this project was to practice Flutter development by creating simp
 
 ## Getting Started 🚀
 
-1. [ Setup Flutter](https://flutter.io/setup/)
+**1. [ Setup Flutter](https://flutter.io/setup/)**
 
 **2. Clone the repo**
 
@@ -38,12 +38,12 @@ $ git clone https://github.com/SaiManojBotchu/TicTacToe.git
 $ cd TicTacToe/
 ```
 
-3. Install dependencies
+**3. Install dependencies**
 ```sh
 $ flutter pub get
 ```
 
-4. Run app
+**4. Run app**
 ```sh
 $ flutter run
 ```
