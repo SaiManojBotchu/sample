@@ -86,5 +86,5 @@ $ flutter run
 **SaiManoj**
 
 - Gmail: [@saimanoj2826](mailto:saimanoj2826@gmail.com)
-- Twitter: [@saimanoj]()
+- Twitter: [@saimanoj2826](https://twitter.com/saimanoj2826)
 - Github: [@SaiManojBotchu](https://github.com/SaiManojBotchu)
