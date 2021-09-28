@@ -8,7 +8,7 @@ Don't forget to give a star if you like this project 😅😊
 
 > **Note**: This repository is still under development and I will continue to add more features to it! 🙃
 
-## Quick Links 🔗
+## Table of Contents 📜
 
 - [General Info](#general-info-)
 - [Preview](#preview-)
